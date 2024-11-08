@@ -1,0 +1,16 @@
+[dev]
+    [dev.sqlserver.ods]
+        user = "svc-ael-da"
+        server = "10.80.192.123"
+    [dev.sqlserver.main]
+        user = "svc_datateam_main"
+        server = "10.47.220.174"
+    [dev.sqlserver.rpt]
+        user = "svc_DMSTeam_UAT"
+        server = "142.250.72.174"
+    [dev.sqlserver.web]
+        user = "svc_dmsweb_uat"
+        server = "10.0.1.86"
+    [dev.sqlserver.infa]
+        user = "svc_dmsinfa_uat"
+        server = "ae-sql-infa-u01.american-equity.com"
