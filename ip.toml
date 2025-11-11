@@ -1,4 +1,4 @@
-[dev]
+#[dev]
     [dev.sqlserver.ods]
         user = "svc-ael-da"
         server = "10.80.192.123"
